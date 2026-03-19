@@ -6,7 +6,6 @@
 #include "hittable_list.h"
 #include "sphere.h"
 #include "vec3.h"
-#include <memory>
 
 
 int main() {
@@ -60,8 +59,8 @@ int main() {
     camera cam;
 
     cam.aspect_ratio      = 16.0 / 9.0;
-    cam.image_width       = 1200;
-    cam.samples_per_pixel = 100;
+    cam.image_width       = 500;
+    cam.samples_per_pixel = 50;
     cam.max_depth         = 10;
 
     cam.vfov     = 20;

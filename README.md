@@ -1,9 +1,9 @@
 i have made a raytracer following this tutorial
 
-[https://raytracing.github.io/books/RayTracingInOneWeekend.html](RayTracing in one weekend)
+[RayTracing in one weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 
 Next part
-[https://raytracing.github.io/books/RayTracingTheNextWeek.html](RayTracing The next week)
+[RayTracing The next week](https://raytracing.github.io/books/RayTracingTheNextWeek.html)
 
 ```bash
 g++ .\main.cpp -o main && .\main.exe > <filename>.ppm
